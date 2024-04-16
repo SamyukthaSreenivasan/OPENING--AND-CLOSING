@@ -60,8 +60,7 @@ cv2.waitKey(0)
 ![image](https://github.com/SamyukthaSreenivasan/OPENING--AND-CLOSING/assets/119475703/d0db1940-7c93-42bc-9d9e-d4c6fec34a86)
 
 ### Display the result of Closing
-![Uploading image.png…]()
-
+![image](https://github.com/SamyukthaSreenivasan/OPENING--AND-CLOSING/assets/119475703/0b7c5f42-241c-42db-9100-cb368f6fddbf)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
